@@ -1,7 +1,7 @@
 ### Hi, I'm Joseph! 👋🏼 
 _______________________________________________________________________________________________________________________
 
-Hi, I'm Joseph! I'm a software engineer based in Baldwin Park, CA passionate about building full-stack web applications to help people and communities reach their full potentials. 
+Hi, I'm Joseph! I'm a software engineer based in Baldwin Park, CA passionate about building full-stack web applications to help people and communities reach their full potential. 
 
 I'm currently open and looking to join an awesome team of developers working on creative projects!
 
